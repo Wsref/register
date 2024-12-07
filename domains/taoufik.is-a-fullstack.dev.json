@@ -1,0 +1,12 @@
+{
+    "description": "Personal Website",
+
+    "domain": "is-a-fullstack.dev",
+    "subdomain": "taoufik",
+
+    "owner": {
+        "email": "xanodis447@rustetic.com"
+    },
+
+    "proxied": false
+}
